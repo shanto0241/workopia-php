@@ -1,0 +1,16 @@
+{
+  "name": "shanta/workopia-php",
+  "description": "Job search & list application",
+  "authors": [
+    {
+      "name": "Sudipta Sinha Shanta",
+      "email": "web.shanto23@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Framework\\": "Framework/",
+      "App\\": "App/"
+    }
+  }
+}
